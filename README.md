@@ -17,6 +17,7 @@ Español	  | { lang: 'es' }
 English	  | (Default)
 Finnish   | { lang: 'fi' }
 Français  | { lang: 'fr' }
+Georgian  | { lang: 'ka' }
 Greek	    | { lang: 'gr' }
 Hungarian | { lang: 'hu' }
 Italian   | { lang: 'it' }
